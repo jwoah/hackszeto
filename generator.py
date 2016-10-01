@@ -7,5 +7,3 @@ def get_recipe():
     return json.loads(response_body)
 
 print get_recipe()
-
-+
